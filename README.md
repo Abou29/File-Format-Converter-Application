@@ -1,5 +1,5 @@
 # File-Format-Converter-Application
-To improve the efficiency of our data engineering pipelines, we need to convert these CSV files into JSON files, since JSON is better to use in downstream applications than CSV. <br>
+To improve the efficiency of our data engineering pipelines, we need to convert these CSV files into JSON files, since JSON is better to use in downstream applications than CSV. <br> <br>
 The steps to build the application :
 - Setup Project for File Format Converter using Python
 •	Install Dependencies for the Python Project using pip
